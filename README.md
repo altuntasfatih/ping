@@ -1,2 +1,2 @@
 # Ping
-A pure python ping implementation using icmp packets
+A pure python ping implementation using icmp packets.
